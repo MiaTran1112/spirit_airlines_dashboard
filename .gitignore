@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.log
+.env
+.env.*
+.ipynb_checkpoints
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
