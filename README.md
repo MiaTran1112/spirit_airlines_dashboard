@@ -190,4 +190,5 @@ Analyzed **4,510 Spirit Airlines reviews (2015–2025)** using SQL + Python + Mo
 
 ---
 
-## Repository
+## Author
+Mia Tran
