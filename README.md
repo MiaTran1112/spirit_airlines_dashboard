@@ -109,16 +109,16 @@ Analyzed **4,510 Spirit Airlines reviews (2015–2025)** using SQL + Python + Mo
 
 ### 3.5. Satisfaction by Aircraft and Airports
 <p align="center">
-  <img width="900" alt="Average Rating by Aircraft + Review Count" src="aircraft.png" />
+  <img width="900" alt="Average Rating by Aircraft + Review Count" src="images/aircraft.png" />
 </p>
 
 - Aircraft results with **higher scores** (e.g., **A350 = 3.8**) are based on **N≈1** → **not reliable**.
 - **Unknown** aircraft accounts for **4,301** reviews, limiting aircraft-based analysis.
 
 <p align="center">
-  <img width="900" alt="Top/Bottom Origin Airports" src="images/airline_10_highest.png" />
+  <img width="900" alt="Top/Bottom Origin Airports" src="images/airport_10_highest.png" />
   <br/>
-  <img width="900" alt="Top/Bottom Destination Airports" src="images/airline_10_lowest.png" />
+  <img width="900" alt="Top/Bottom Destination Airports" src="images/airport_10_lowest.png" />
 </p>
 
 - **PHL** and **IAH** appear among the **top** for both origin and destination.
