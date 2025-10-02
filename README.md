@@ -3,6 +3,10 @@
   <img width="1200" alt="Spirit Airlines Dashboard Cover" src="images/spirit_airlines.jpg" />
 </p>
 
+## TL;DR
+Spirit Airlines reviews (2015–2025) show chronic dissatisfaction — avg rating **1.59/5**, nearly **88% not recommending**, with Wi-Fi & inflight entertainment as the weakest services and Business Class the most dissatisfied segment.
+
+## Summary
 Analyzed **4,510 Spirit Airlines reviews (2015–2025)** using SQL + Python + Mode Analytics to uncover satisfaction drivers. Findings show **chronic dissatisfaction** (avg rating **1.59/5**, **87.86%** not recommending). Weakest areas are **Wi-Fi & Connectivity (1.13)** and **Inflight Entertainment (1.11)**; relatively stronger but still low is **Cabin Staff Service (1.95)**. Segment deep-dives (seat type, traveller type) highlight **Business Class** as the lowest-rated group.
 
 **Access the dashboard PDF:**  
